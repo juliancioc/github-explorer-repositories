@@ -2,7 +2,7 @@
 
 Aplicação criada através do GoStack Bootcamp da Rocketseat, o objetivo é buscar, listar e visualizar repositórios do Github atráves do autor/nome.
 
-<a href="https://imgflip.com/gif/40v55k"></a>
+<a href="https://imgflip.com/gif/40v55k"><img src="https://imgflip.com/gif/40v55k" title="gif github explorer" /></a>
 
 # Este projeto utiliza:
 
