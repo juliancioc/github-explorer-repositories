@@ -42,7 +42,7 @@ const Dashboard: React.FC = () => {
         event.preventDefault();
 
         if (!newRepo) {
-            setInputError('Digite o auto/nome do repositório');
+            setInputError('Digite o autor/nome do repositório');
             return;
         }
 
@@ -55,7 +55,7 @@ const Dashboard: React.FC = () => {
             setNewRepo('');
             setInputError('');
         } catch (err) {
-            setInputError('Error na busca por esse repositório');
+            setInputError('Erro na busca por esse repositório');
         }
 
     }
